@@ -4,8 +4,4 @@
 - 🌱 I’m currently learning GITHUB
 - 💞️ I’m looking to collaborate on ALLURA
 - 📫 How to reach me by email: orlandojosemonteiro@gmail.com
-
-<!---
-orlandoesirley/orlandoesirley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://media1.tenor.com/m/tHsSiY4WNfYAAAAd/santa-mar%C3%ADa-de-las-nieves-nuestra-se%C3%B1ora-de-las-nieves.gif
