@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @orlandoesirley
-- 👀 I’m interested in PROGRAMAÇÃO
+- 👋 Hi, I’m **@orlandoesirley**
+- 👀 I’m interested in _PROGRAMAÇÃO_
 - 🌱 I’m currently learning GITHUB
 - 💞️ I’m looking to collaborate on ALLURA
 - 📫 How to reach me 
